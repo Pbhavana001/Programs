@@ -3,7 +3,7 @@ package Patterns;
 import java.util.Scanner;
 public class nine {
     public static void main(String[] args) {
-        static void mine()
+        static void nine;
         {
             int n = 5; // Size of the pattern
 
